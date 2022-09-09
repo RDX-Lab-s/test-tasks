@@ -4,6 +4,7 @@
 
 * `Back-end` разработка ([подробно](/backend.md))
 * `Front-end` разработка ([подробно](/frontend.md))
+* `Fullstack` разработка ([подробно](/fullstack.md))
 * `Python` разработка ([подробно](/python.md))
 
 ## Вопросы
